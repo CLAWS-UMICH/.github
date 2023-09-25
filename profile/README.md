@@ -10,7 +10,6 @@
   <a href="mailto:claws-admin@umich.edu">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email"/>
   </a>
-  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="180"/>
 </div>
 </div>
 
