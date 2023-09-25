@@ -1,7 +1,5 @@
 <h1 align="center">The Collaborative Lab for Advancing Work in Space</h1>
-<h3 align="center">At the University of Michigan</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="180"/>
   <div id="badges">
   <a href="https://www.linkedin.com/company/claws-um/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
@@ -12,6 +10,7 @@
   <a href="mailto:claws-admin@umich.edu">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email"/>
   </a>
+  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="180"/>
 </div>
 </div>
 
