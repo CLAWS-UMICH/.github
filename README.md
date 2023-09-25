@@ -1,5 +1,5 @@
 <h1 align="center">The Collaborative Lab for Advancing Work in Space</h1>
-<h2 align="center">At the University of Michigan</h2>
+<h3 align="center">At the University of Michigan</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="180"/>
   <div id="badges">
